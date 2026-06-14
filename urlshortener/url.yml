@@ -1,0 +1,4 @@
+- path: test
+  url: https://google.com/
+- path: github
+  url: https://github.com/ncurran02
